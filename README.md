@@ -45,8 +45,7 @@ Python 3 · json · os · datetime
 
 ## O que aprendi
 
-Entendi que é muito importante estruturar as ideias antes de começar a codar, porque na teoria deixa mais prático. Eu achei um pouquinho complicado o fluxograma, ainda prefiro fazer por algoritmo listado, acho mais fácil. Aprendi a usar melhor o JSON, abrindo margem para outros projetos pessoais que eu tenho também.
-
+Entendi que é muito importante estruturar as ideias antes de começar a codar, porque na teoria deixa mais prático. Eu achei um pouquinho complicado o fluxograma, ainda prefiro fazer por algoritmo listado, acho mais fácil. Aprendi a usar melhor o JSON, abrindo margem para outros projetos pessoais que eu tenho também. Foi difícil me habituar a subir arquivos pelo terminal em vez de direto no GitHub, mas foi importante aprender. Se começasse de novo, já planejaria melhor a estrutura do JSON antes de escrever as funções
 <div align="center">
   <img src="spidey.gif">
 </div>
