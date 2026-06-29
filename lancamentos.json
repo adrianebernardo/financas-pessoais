@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "data": "29/06/2026 18:52",
+    "tipo": "despesa",
+    "categoria": "jogos",
+    "descricao": "free fire",
+    "valor": 1200.0
+  },
+  {
+    "data": "29/06/2026 18:52",
+    "tipo": "receita",
+    "categoria": "salário",
+    "descricao": "CL",
+    "valor": 1500.0
+  },
+  {
+    "data": "29/06/2026 18:53",
+    "tipo": "despesa",
+    "categoria": "alimentação",
+    "descricao": "burguer king",
+    "valor": 50.0
+  },
+  {
+    "data": "29/06/2026 18:54",
+    "tipo": "despesa",
+    "categoria": "vicio",
+    "descricao": "figurinha da copa",
+    "valor": 150.0
+  }
+]
